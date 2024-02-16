@@ -4,6 +4,8 @@
 
 I'm a software engineer, specializing in backend development and distributed systems. I have extensive experience in designing and implementing resilient, responsive, scalable, and maintainable systems using C#, .NET on top of cutting-edge technologies. 
 
+This profile for now contains some projects that I use to experiment with technologies.
+
 <h2 align="center">🛠 Technologies & Skils</h2>
 
 <p align="center">
