@@ -37,8 +37,6 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="54"
             height="54" alt="angular" style="vertical-align:top; margin:4px">
     </a>
-
-
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
