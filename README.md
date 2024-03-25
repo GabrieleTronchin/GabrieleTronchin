@@ -49,10 +49,6 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/react/react-original.svg" width="54"
             height="54" alt="react" style="vertical-align:top; margin:4px">
     </a>
-    <a href="">
-        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-original.svg" width="54"
-            height="54" alt="visualstudio" style="vertical-align:top; margin:4px">
-    </a>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
