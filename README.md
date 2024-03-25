@@ -45,6 +45,18 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/react/react-original.svg" width="54"
             height="54" alt="react" style="vertical-align:top; margin:4px">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kibana/kibana-original.svg" width="54"
+            height="54" alt="kibana" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/elasticsearch/elasticsearch-original.svg" width="54"
+            height="54" alt="elasticsearch" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="54"
+            height="54" alt="microsoftsqlserver" style="vertical-align:top; margin:4px">
+    </a>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
@@ -60,6 +72,10 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
             alt="typescript" width="54" height="54" style="vertical-align:top; margin:4px;">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg"
+            alt="javascript" width="54" height="54" style="vertical-align:top; margin:4px;">
+    </a>
 </p>
 
 <br/>
@@ -72,12 +88,24 @@ This profile for now contains some projects that I use to experiment with techno
             height="54" alt="vscode" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-original.svg" width="54"
+            height="54" alt="visualstudio" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/rancher/rancher-original.svg" width="54"
             height="54" alt="rancher" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-original.svg" width="54"
-            height="54" alt="visualstudio" style="vertical-align:top; margin:4px">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/trello/trello-original.svg" width="54"
+            height="54" alt="trello" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/postman/postman-original.svg" width="54"
+            height="54" alt="postman" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/azuredevops/azuredevops-original.svg" width="54"
+            height="54" alt="azuredevops" style="vertical-align:top; margin:4px">
     </a>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
