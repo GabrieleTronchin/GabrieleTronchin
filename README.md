@@ -38,10 +38,10 @@ This profile for now contains some projects that I use to experiment with techno
             height="54" alt="angular" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="54" height="54" alt="elasticsearch" style="vertical-align:top; margin:4px">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="100" height="54" alt="elasticsearch" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kibana/kibana-original-wordmark.svg" width="54"
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kibana/kibana-original-wordmark.svg" width="100"
             height="54" alt="kibana" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
