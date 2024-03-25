@@ -57,6 +57,10 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="54"
             height="54" alt="microsoftsqlserver" style="vertical-align:top; margin:4px">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tailwindcss/tailwindcss-original.svg" width="54"
+            height="54" alt="tailwindcss" style="vertical-align:top; margin:4px">
+    </a>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
@@ -107,6 +111,11 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/azuredevops/azuredevops-original.svg" width="54"
             height="54" alt="azuredevops" style="vertical-align:top; margin:4px">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/portainer/portainer-original.svg" width="54"
+            height="54" alt="portainer" style="vertical-align:top; margin:4px">
+    </a>
+    
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 <br/>
