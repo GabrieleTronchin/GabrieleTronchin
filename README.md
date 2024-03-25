@@ -118,6 +118,8 @@ This profile for now contains some projects that I use to experiment with techno
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
+<br/>
+
 <h3 align="center">📚 Studing and Experimenting</h2>
 
 Here are some topics I am exploring at this time:
