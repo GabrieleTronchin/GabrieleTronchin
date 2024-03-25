@@ -117,5 +117,14 @@ This profile for now contains some projects that I use to experiment with techno
     </a> 
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
+
+<h3 align="center">📚 Studing and Experimenting</h2>
+
+Here are some topics I am exploring at this time:
+ - [DDD](https://romanglushach.medium.com/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems-5314a7fe053c)
+ - [Modular Monolithic Architecture](https://medium.com/design-microservices-architecture-with-patterns/microservices-killer-modular-monolithic-architecture-ac83814f6862)
+ - [GraphQL](https://graphql.org/)
+ - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+
 <br/>
 
