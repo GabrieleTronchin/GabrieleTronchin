@@ -91,11 +91,11 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/vscode/vscode-original.svg" width="54"
             height="54" alt="vscode" style="vertical-align:top; margin:4px">
     </a>
-    <a href="">
+    <a href="https://visualstudio.microsoft.com/">
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-original.svg" width="54"
             height="54" alt="visualstudio" style="vertical-align:top; margin:4px">
     </a>
-    <a href="https://visualstudio.microsoft.com/">
+    <a href="https://rancherdesktop.io/">
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/rancher/rancher-original.svg" width="54"
             height="54" alt="rancher" style="vertical-align:top; margin:4px">
     </a>
