@@ -6,7 +6,7 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 This profile for now contains some projects that I use to experiment with technologies.
 
-<h2 align="center">🛠 Technologies </h2>
+<h2 align="center">🚀 Technologies </h2>
 
 <p align="center">
     <a href="https://dotnet.microsoft.com/">
@@ -58,7 +58,7 @@ This profile for now contains some projects that I use to experiment with techno
 
 <br/>
 
-<h2 align="center">🛠 Languages </h2>
+<h2 align="center">🤖 Languages </h2>
 <p align="center">
     <a href="">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="golang" width="54"
