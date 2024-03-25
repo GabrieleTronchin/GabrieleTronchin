@@ -120,7 +120,7 @@ This profile for now contains some projects that I use to experiment with techno
 
 <br/>
 
-<h3 align="center">📚 Studing and Experimenting </h3>
+<h2 align="center">📚 Studing and Experimenting </h2>
 
 Here are some topics I am exploring at this time:
  - [DDD](https://romanglushach.medium.com/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems-5314a7fe053c)
