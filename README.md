@@ -37,6 +37,45 @@ This profile for now contains some projects that I use to experiment with techno
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="54"
             height="54" alt="angular" style="vertical-align:top; margin:4px">
     </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="54" height="54" alt="elasticsearch" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/kibana/kibana-original-wordmark.svg">
+        <img src="" width="54"
+            height="54" alt="kibana" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+        <img src="" width="54"
+            height="54" alt="microsoftsqlserver" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/powershell/powershell-original.svg">
+        <img src="" width="54"
+            height="54" alt="powershell" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/redis/redis-original.svg">
+        <img src="" width="54"
+            height="54" alt="redis" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/swagger/swagger-original.svg">
+        <img src="" width="54"
+            height="54" alt="swagger" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/vscode/vscode-original.svg">
+        <img src="" width="54"
+            height="54" alt="vscode" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/rancher/rancher-original.svg">
+        <img src="" width="54"
+            height="54" alt="rancher" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/react/react-original.svg">
+        <img src="" width="54"
+            height="54" alt="react" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/visualstudio/visualstudio-original.svg">
+        <img src="" width="54"
+            height="54" alt="visualstudio" style="vertical-align:top; margin:4px">
+    </a>
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
