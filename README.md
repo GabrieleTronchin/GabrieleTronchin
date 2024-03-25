@@ -114,8 +114,7 @@ This profile for now contains some projects that I use to experiment with techno
     <a href="">
         <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/portainer/portainer-original.svg" width="54"
             height="54" alt="portainer" style="vertical-align:top; margin:4px">
-    </a>
-    
+    </a> 
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 <br/>
