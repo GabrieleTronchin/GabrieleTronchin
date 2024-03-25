@@ -45,7 +45,7 @@ This profile for now contains some projects that I use to experiment with techno
             height="54" alt="kibana" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
-        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="54"
+        <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg" width="54"
             height="54" alt="microsoftsqlserver" style="vertical-align:top; margin:4px">
     </a>
     <a href="">
