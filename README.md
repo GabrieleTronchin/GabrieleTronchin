@@ -120,21 +120,4 @@ This profile for now contains some projects that I use to experiment with techno
 
 <br/>
 
-<h2 align="center">📚 Studing and Experimenting </h2>
-
-Here are some topics I am exploring at this time:
- - [DDD](https://romanglushach.medium.com/domain-driven-design-ddd-a-guide-to-building-scalable-high-performance-systems-5314a7fe053c)
- - [Modular Monolithic Architecture](https://medium.com/design-microservices-architecture-with-patterns/microservices-killer-modular-monolithic-architecture-ac83814f6862)
- - [GraphQL](https://graphql.org/)
- - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
-
-<br/>
-
-<h2 align="center">✨ Upcoming </h2>
-
-Here are the next topics list:
- - Experimenting with sidecar container pattern [dapr](https://dapr.io/)
- - Experimenting with [Microsoft Garnet](https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/)
- - Getting started with contributing to open source
-
 
