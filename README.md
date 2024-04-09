@@ -134,7 +134,7 @@ Here are some topics I am exploring at this time:
 
 Here are the next topics list:
  - Experimenting with sidecar container pattern [dapr](https://dapr.io/)
- - Getting started with contributing to open source
  - Experimenting with [Microsoft Garnet](https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/)
- - Start a personal website using [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
+ - Getting started with contributing to open source
+
 
