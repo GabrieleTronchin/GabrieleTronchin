@@ -120,6 +120,4 @@ This profile for now contains some projects that I use to experiment with techno
 
 <br/>
 
-<p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleTronchin)](https://github.com/GabrieleTronchin/github-readme-stats&show_icons=true&theme=radical)
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleTronchin)](https://github.com/GabrieleTronchin/github-readme-stats&show_icons=true&theme=dark)
