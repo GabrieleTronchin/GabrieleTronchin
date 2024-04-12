@@ -6,9 +6,6 @@ I'm a software engineer, specializing in backend development and distributed sys
 
 This profile for now contains some projects that I use to experiment with technologies.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleTronchin)](https://github.com/GabrieleTronchin/github-readme-stats)
-
-
 <h2 align="center">🚀 Technologies </h2>
 
 <p align="center">
@@ -123,4 +120,5 @@ This profile for now contains some projects that I use to experiment with techno
 
 <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleTronchin)](https://github.com/GabrieleTronchin/github-readme-stats&show_icons=true&theme=radical)
 
