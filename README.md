@@ -119,5 +119,3 @@ This profile for now contains some projects that I use to experiment with techno
 </p>
 
 <br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrieleTronchin)](https://github.com/GabrieleTronchin/github-readme-stats&show_icons=true&theme=dark)
