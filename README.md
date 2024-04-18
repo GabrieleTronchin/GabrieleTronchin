@@ -120,3 +120,7 @@ This profile for now contains some projects that I use to experiment with techno
 </p>
 
 <br/>
+<h2 align="center">📊 Statistics </h2>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieletronchin)
+
