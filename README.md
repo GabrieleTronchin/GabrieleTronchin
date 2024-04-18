@@ -1,6 +1,5 @@
 ![](assets/header.jpg)
-![](https://komarev.com/ghpvc/?GabrieleTronchin&color=green)
-
+![](https://komarev.com/ghpvc/?username=gabrieletronchin&color=green)
 
 <h1 align="center">Hello World👋</h1>
 
