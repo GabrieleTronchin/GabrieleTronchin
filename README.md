@@ -119,8 +119,3 @@ This profile for now contains some projects that I use to experiment with techno
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </p>
 
-<br/>
-<h2 align="center">📊 Statistics </h2>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrieletronchin)
-
